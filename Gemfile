@@ -32,6 +32,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery'
+gem 'sendgrid-ruby'
 
 group :production do
   gem 'pg'
